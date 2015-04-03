@@ -1,0 +1,26 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "babel": "^5.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Globegitter/babel-promise.git"
+  },
+  "author": "Markus Padourek <markus.padourek@gmail.com> (http://artificial.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Globegitter/babel-promise/issues"
+  },
+  "homepage": "https://github.com/Globegitter/babel-promise"
+}
